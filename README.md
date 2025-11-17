@@ -19,3 +19,5 @@ The game allows the user to play against the computer with random moves.
 1. Compile the code using any C++ compiler (e.g. g++, Visual Studio)  
 2. Run the executable  
 3. Follow on-screen instructions to play  
+
+
